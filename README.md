@@ -6,9 +6,9 @@
 
 <h3 align="left">Dónde encontrarme:</h3>
 <div align="left">
-   <a href="mailto:miguelangelmardom8@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-martinez-dominguez-a3361b329/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-   <a href="https://github.com/martinezdom" target="blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  /></a>
+   <a href="mailto:miguelangelmardom8@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-martinez-dominguez-a3361b329/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+   <a href="https://github.com/martinezdom" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  /></a>
 </div>
 
 <h4>Lenguajes</h4>
