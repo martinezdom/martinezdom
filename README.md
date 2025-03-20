@@ -13,36 +13,34 @@
 
 <h4>Lenguajes</h4>
 <p>
-   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /></a>
-   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
-   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat" />
+   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /></a>
+   <a href="https://www.php.net/manual/es/intro-whatis.php"  target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" /></a>
+   <a href="https://www.java.com/es/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat" /></a>
 </p>
 
 <h4>Frontend</h4>
 <p>
-   <img alt="JavaScript Vanilla" src="https://img.shields.io/badge/JavaScript_\(Vanilla\)-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&style=flat" />
-   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/>
+   <a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&style=flat" /></a>
+   <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=flat"/></a>
 </p>
 
 <h4>Backend</h4>
 <p>
-   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
-   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=flat" />
-   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=flat" />
+   <a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=flat" /></a>
+   <a href="https://spring.io/projects/spring-boot" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=flat" /></a>
 </p>
 
 <h4>Bases de Datos</h4>
 <p>
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat" />
+   <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&style=flat" /></a>
+   <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat" /></a>
 </p>
 
 <h4>DevOps / Infraestructura</h4>
 <p>
-   <img alt="Apache" src="https://img.shields.io/badge/Apache-800080?style=for-the-badge&logo=apache&logoColor=white&style=flat" />
-   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&style=flat" />
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat" />
+   <a href="https://httpd.apache.org/" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/Apache-800080?style=for-the-badge&logo=apache&logoColor=white&style=flat" /></a>
+   <a href="https://nginx.org/" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&style=flat" /></a>
+   <a href="https://aws.amazon.com/es/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat" /></a>
 </p>
 
 <h3>Stats</h3>
