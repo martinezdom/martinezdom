@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="center" width="200" src="https://github.com/martinezdom/martinezdom-dev/blob/main/profile.jpg?raw=true" />
+   <img align="center" width="200" src="https://github.com/martinezdom/martinezdom-dev/blob/main/public/profile.jpg?raw=true" />
    <h3 align="center"> ¡Hola! Soy Miguel Ángel Martínez Domínguez <br />Desarrollador Web 👨🏻‍💻</h3>
    <br />
 </p>
