@@ -20,7 +20,7 @@ Actualmente estoy aprendiendo nuevas tecnologías tras finalizar el ciclo superi
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Stack
 
 ### 🛠️ Lenguajes
 
@@ -72,14 +72,6 @@ Actualmente estoy aprendiendo nuevas tecnologías tras finalizar el ciclo superi
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
-### 🔍 ¿Qué estoy aprendiendo ahora?
-
-<p align="left">
-  <img src="https://img.shields.io/badge/EN_PROGRESO-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PRÓXIMAMENTE-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/PRÁCTICANDO-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-</p>
 
 ---
 
