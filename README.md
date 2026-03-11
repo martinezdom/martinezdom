@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/martinezdom/martinezdom.github.io/blob/main/public/me.png?raw=true" width="200" />
+  <img src="https://github.com/martinezdom/martinezdom.github.io/blob/main/public/hero_picture.webp?raw=true" width="200" />
 <h3 align="center">¡Buenas!</br>Soy Miguel Ángel Martínez Domínguez</br>Desarrollador Web 👨🏻‍💻</h3>
 </p>
 
