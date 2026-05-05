@@ -3,19 +3,25 @@
 <h3 align="center">¡Buenas!</br>Soy Miguel Ángel Martínez Domínguez</br>Desarrollador Web 👨🏻‍💻</h3>
 </p>
 
-# 💫 Sobre mí
+# Sobre mí
 
-Actualmente estoy aprendiendo nuevas tecnologías tras finalizar el ciclo superior de Desarrollo de Aplicaciones Web. Me encuentro en búsqueda de mi primera oportunidad como desarrollador web, con muchas ganas de seguir creciendo profesionalmente. 🚀
+Soy desarrollador web con formación en Desarrollo de Aplicaciones Web y actualmente terminando una especialización en ciberseguridad. Me encuentro en búsqueda de mi primera oportunidad profesional, enfocado en seguir aprendiendo y mejorando cada día.
+
+Trabajo activamente en proyectos propios donde aplico nuevas tecnologías y refuerzo mis conocimientos tanto en desarrollo como en seguridad. Puedes explorar mis repositorios o ver algunos de mis proyectos en funcionamiento en mi portafolio:
+https://martinezdom.github.io/
 
 ---
 
-## 🌐 Puedes encontrarme en:
+## Puedes encontrarme en:
 
 <p align="left">
   <a href="mailto:miguelangelmardom8@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="https://www.linkedin.com/in/martinezdom" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="https://github.com/martinezdom" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="https://instagram.com/miiguelmrtnz" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
+<a href="https://martinezdom.github.io/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" />
+</a>
 </p>
 
 ---
