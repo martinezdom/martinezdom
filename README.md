@@ -20,7 +20,7 @@ https://martinezdom.github.io/
   <a href="https://github.com/martinezdom" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=black&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="https://instagram.com/miiguelmrtnz" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
 <a href="https://martinezdom.github.io/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Portafolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" />
 </a>
 </p>
 
